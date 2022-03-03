@@ -55,12 +55,9 @@ class Calculadora extends Component {
                 current: equals ? 0 : 1,
                 clearDisplay: !equals
             }, () => console.log(this.state))
-        } 
-        
-        
+        }  
     } 
     
-
     addDigit = (digit) => {
         if (digit == '.' && this.state.displayValue.includes('.')) {
             return

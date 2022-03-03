@@ -1,7 +1,7 @@
 body{  
   color: #fff;
-  background: rgb(2,0,36);
-  background: linear-gradient(144deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 69%, rgba(0,212,255,1) 100%);
+  background: rgb(36,0,4);
+  background: linear-gradient(105deg, rgba(36,0,4,0.989233193277311) 26%, rgba(0,212,255,1) 100%);
   display: flex;
   justify-content: center;
   align-items: center;
